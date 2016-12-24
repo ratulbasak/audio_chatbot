@@ -1,2 +1,6 @@
 pyaudio==0.2.9
 SpeechRecognition==3.4.6
+espeak-1.48.04
+speechrecognition-3.5.0
+gTTS-1.1.7
+pyttsx-1.1
